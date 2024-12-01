@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    scroll-behavior: smooth;
+}
+
+.bg-white {
+    background-color: #eaeaea;
+}
+
+.bg-urban {
+    background: linear-gradient(#9866A8, #E36F33);
+}
+
+.bg-trans {
+    background: linear-gradient(#A86500, #FFB342);
+}
+
+.bg-prototype {
+    background: linear-gradient(135deg, #0f2027, #2c5364, #203a43);
+}
